@@ -1,7 +1,7 @@
-body{
+body {
     background-color: #a2d1e0;
 }
-.top-thing{
+.top-thing { 
     background-color: royalblue;
     padding:0.2%;
     border-radius: 15px;
@@ -14,14 +14,24 @@ body{
     font-family: "Montserrat", sans-serif;
     color: white;
 }
-.card{
+.card {
     width: 30%;
     margin-right: 1.5%;
     margin-bottom: 1.5%;
     font-family: "Montserrat", sans-serif;
     
 }
-.container{
+.container {
     margin: auto;
-    width:90%;
+    width: 90%;
+}
+img{
+    width: 100%;
+}
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+a:hover {
+    color: black;
 }
